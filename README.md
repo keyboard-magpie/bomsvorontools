@@ -2,4 +2,4 @@
 
 Someone cleverer has already done it. 
 
-Go and ask on ![https://discord.gg/voron]
+Go and ask on ![voron discord](https://discord.gg/voron)
