@@ -1,9 +1,7 @@
-# bom's voron tools
+## bom's voron tools
 
 Someone cleverer has already done it. 
 
 Go and ask on the [voron discord](https://discord.gg/voron)
 
-Please only ask me about Keyboards on Wednesdays. 
-
-GT1.5 belts are a silly fad and will only make your VFAs finer pitch. 
+I'm only allowed to discuss keyboard stuff on Wednesdays.
