@@ -1,4 +1,4 @@
-## Bom's index of his created voron tools, mods, and other useful things. 
+## Bom's index of his created voron tools, mods, pearls of wisdom from helping and other useful things. 
 
 Someone cleverer than I has already done it. 
 
