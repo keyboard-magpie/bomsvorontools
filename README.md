@@ -1,6 +1,6 @@
 ## Bom's index of his created voron tools, mods, pearls of wisdom from helping and other useful things. 
 
-Someone cleverer than I has already done it, said it, or made it. Or used an AI to so. Or found a better way to help with it. 
+Someone cleverer than I has already done it, said it, or made it. Or used an AI to do so. Or found a better way to help with it. 
 
 If you need moderatorship advice, definitely don't come to me either. 
 
